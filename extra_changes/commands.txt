@@ -1,0 +1,7 @@
+1. ng add @angular/material
+2. npm install jquery
+3. npm install bootstrap
+4. ng g m material --module=app
+5. npm install material-design-icons
+optional :
+6. ng generate @angular/material:material-nav --name=main-nav
