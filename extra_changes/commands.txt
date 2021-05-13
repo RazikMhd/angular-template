@@ -5,3 +5,4 @@
 5. npm install material-design-icons
 optional :
 6. ng generate @angular/material:material-nav --name=main-nav
+7. npm install ngx-permissions  --save
